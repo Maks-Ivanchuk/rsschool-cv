@@ -14,12 +14,12 @@ Hello everyone, my name is Maksym, I am 28 years old and I want to change my lif
 
 ## Skills
 
-1 HTML5 & CSS3 (SASS/SCSS, BEM)
-2 JavaScript
-3 Git & GitHub
-4 SublimeText & VSCode
-5 Figma & Avacode
-6 Windows OS
+1. HTML5 & CSS3 (SASS/SCSS, BEM)
+2. JavaScript
+3. Git & GitHub
+4. SublimeText & VSCode
+5. Figma & Avacode
+6. Windows OS
 
 ## Code example
 
