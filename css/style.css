@@ -35,23 +35,37 @@ img{vertival-aling: top;}
 
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*-------------------------------------------------------------*/
-.wrapper {
+body{
+	padding: 5% 10%;
+	background-color: rgba(206, 226, 117, 0.274);
+}
+.wrapper {	
 }
 .content {
+	max-width: 850px;
+	margin: 0 auto;
 }
 .content__row {
+	display: flex;
+	flex-direction: column;
 }
 .header {
 }
 .header__row {
+	display: flex;
+	background-color: rgb(226, 164, 164);
+	flex-wrap:wrap;
 }
 .header__photo {
+	height: 15em;
 }
-.photo__img {
+.photo-img {
+	height: 100%;
 }
 .header__info {
 }
 .info__row {
+	display: flex;
 }
 .info__name {
 }
@@ -60,6 +74,10 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .main {
 }
 .main__row {
+	display: flex;
+	flex-direction: column;
+	background-color: rgb(228, 199, 161);
+	flex-wrap:wrap;
 }
 .main__about {
 }
